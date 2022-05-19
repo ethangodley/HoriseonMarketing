@@ -8,4 +8,4 @@
 
 ## The website should look like the image included below
 
-![Target website look] (./assets/images/01-html-css-git-homework-demo.png)
+![Target website look](./assets/images/01-html-css-git-homework-demo.png)
