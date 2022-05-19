@@ -4,7 +4,7 @@
 
 ## This website is in its completed state with final commentation
 
-##
+## Please find URL here: https://ethangodley.github.io/HoriseonMarketing/
 
 ## The website should look like the image included below
 
